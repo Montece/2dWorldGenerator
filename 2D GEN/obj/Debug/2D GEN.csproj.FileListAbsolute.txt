@@ -1,0 +1,6 @@
+D:\Выключение\C# программы\2D GEN\2D GEN\bin\Debug\2D GEN.exe
+D:\Выключение\C# программы\2D GEN\2D GEN\bin\Debug\2D GEN.pdb
+D:\Выключение\C# программы\2D GEN\2D GEN\obj\Debug\2D GEN.exe
+D:\Выключение\C# программы\2D GEN\2D GEN\obj\Debug\2D GEN.pdb
+D:\Выключение\C# программы\2D GEN\2D GEN\obj\Debug\2D GEN.csprojAssemblyReference.cache
+D:\Выключение\C# программы\2D GEN\2D GEN\obj\Debug\2D GEN.csproj.CoreCompileInputs.cache
